@@ -1,2 +1,2 @@
 # hello-world
-hello
+Hi buddies, just editing the readme file
